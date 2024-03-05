@@ -542,9 +542,6 @@ p {
 .footer ul li p {
     color: rgba(255, 255, 255, 0.5);
 }
-.footer .newsletter form:focus {
-
-}
 .footer .newsletter form input {
     background: transparent;
     border: none;
